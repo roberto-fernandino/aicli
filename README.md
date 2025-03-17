@@ -13,7 +13,7 @@ AICLI100 is a command line interface for using AI.
 ### Using git
 1. Clone the repository:
    ```sh
-   git clone https://github.com/roberto-fernandino/aicli.git
+   git clone https://github.com/roberto-fernandino/aicli_project.git
    cd aicli
    ```
 
