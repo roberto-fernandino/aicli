@@ -32,7 +32,7 @@ importlib_resources==6.4.0
 Jinja2==3.1.4
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
-litellm==1.41.6
+litellm==1.61.15
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mccabe==0.7.0
